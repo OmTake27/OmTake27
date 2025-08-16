@@ -105,7 +105,7 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
   <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Explore%20New%20Technologies-Exciting-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Work%20on%20Projects-Active-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Work%20on%20Projects-Active-cyan?style=for-the-badge" />
   <!--END_SECTION:daily-tasks-->
 </p>
 
