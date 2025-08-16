@@ -4,6 +4,11 @@
 ### <span id="typewriter" style="color: #00FF80;"></span>
 Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" style="width: 500px; height: auto; border-radius: 100px;" />
   <div>
@@ -14,10 +19,6 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 </div>
 
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
