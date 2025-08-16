@@ -15,15 +15,7 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
   <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="omtake27" />
 </p>
 
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  var typed = new Typed('#typewriter', {
-    strings: ['Software Engineer', 'Code Hacker', 'Tech Enthusiast', 'Problem Solver', 'GitHub Rockstar'],
-    typeSpeed: 50,
-    backSpeed: 30,
-    loop: true
-  });
-</script>
+
 
 ---
 
