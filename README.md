@@ -4,8 +4,8 @@
 ### <span id="typewriter" style="color: #00FF80;"></span>
 Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;"><centre>
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px;" /></centre>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" style="width: 300px; height: auto; border-radius: 100px;" />
   <div>
     <p>👋 Hi! I'm Om Take, a passionate developer focused on building sleek applications and mastering modern tech stacks.</p>
     <p>💻 I specialize in HTML, CSS, JavaScript, Java, Python, and C++.</p>
