@@ -58,18 +58,6 @@
     50% { transform: scale(1.2); opacity: 0.3; }
     100% { transform: scale(1); opacity: 0.7; }
   }
-  .hacker-chart {
-    background: #000;
-    padding: 20px;
-    border: 2px solid #00FF80;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 255, 128, 0.5);
-    animation: fadeIn 2s ease-in;
-  }
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(20px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
 </style>
 
 <div id="particles-js"></div>
@@ -93,17 +81,9 @@
   });
 </script>
 
-```
-   ____          _______ _          
-  |  _ \        |__   __| |         
- | |_) | __ _   __| |  | |__   ___ 
- |  _ < / _` | |  | |  | '_ \ / __|
- | |_) | (_| | |  | |  | | | | (__ 
- |____/ \__,_| |_|_|_|_|_| |_|___|
 
-```
 
-# Yo, I'm Om Take! 👨‍💻
+# Hi, I'm Om Take! 👨‍💻
 ### <span id="typewriter" style="color: #00FF80;"></span>
 Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
 
@@ -111,7 +91,6 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="omtake27" />
-  <img src="https://leetcard.jacoblin.cool/omtake?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
@@ -123,15 +102,6 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
     loop: true
   });
 </script>
-
----
-
-## About Me 😎
-- 💻 Software engineer from India, crafting code that sparks joy.
-- 🎮 When I’m not hacking, I’m gaming, brainstorming, or diving into new tech.
-- 📚 Always learning: Currently mastering **Spring Boot** and **JavaScript**.
-- 📫 Reach me at: **omtake427@gmail.com**
-- ⚡ Fun fact: **I code like it’s a cyberpunk adventure! 😁**
 
 ---
 
@@ -182,15 +152,6 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ---
 
-## 🏅 Code Battle Wins
-- 🥇 **LeetCode Weekly Contest #XYZ**: Top 10% (2025)
-- 🥈 **Hackerrank CodeStreet**: Silver Medal (2024)
-- 🥉 **CodeChef Starters**: Ranked #50 in Division (2024)
-
-*Check my LeetCode badge above for live stats!*
-
----
-
 ## Connect with Me 🌐
 <p align="left">
   <a href="https://linkedin.com/in/omtake" target="_blank">
@@ -213,35 +174,9 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ---
 
-## 💭 Random Coding Quote
-> <span id="quote">"Code is like humor: when you have to explain it, it’s bad." - Cory House</span>
-
-<script>
-  const quotes = [
-    "Code is like humor: when you have to explain it, it’s bad. - Cory House",
-    "First, solve the problem. Then, write the code. - John Johnson",
-    "Programming isn't about what you know; it's about what you can figure out. - Chris Pine",
-    "The best error message is the one that never shows up. - Thomas Fuchs"
-  ];
-  let currentQuote = 0;
-  setInterval(() => {
-    document.getElementById("quote").innerText = quotes[currentQuote];
-    currentQuote = (currentQuote + 1) % quotes.length;
-  }, 5000);
-</script>
-
----
-
 ## 🌍 Visitors Around the Globe
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=omtake27.omtake27&left_color=black&right_color=00FF80" alt="Visitor Badge" />
-</p>
-
----
-
-## 🎧 Currently Listening
-<p align="left">
-  <img src="https://spotify-github-profile.kittinanx.com/api/spotify-playing?username=your_spotify_username" alt="Spotify Now Playing" />
 </p>
 
 ---
@@ -253,157 +188,6 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
   <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-orange?style=for-the-badge" />
   <!--END_SECTION:daily-tasks-->
 </p>
-
----
-
-## 📊 Hacker Contribution Graph
-<div class="hacker-chart">
-  <canvas id="hackerChart"></canvas>
-</div>
-
-```chartjs
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5", "Week 6"],
-    "datasets": [{
-      "label": "Contributions",
-      "data": [10, 15, 20, 25, 30, 35],
-      "backgroundColor": "#00FF80",
-      "borderColor": "#00FF80",
-      "borderWidth": 2
-    }]
-  },
-  "options": {
-    "animation": {
-      "duration": 2000,
-      "easing": "easeInOutQuad"
-    },
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "grid": {
-          "color": "#00FF80",
-          "borderDash": [5, 5]
-        },
-        "ticks": {
-          "color": "#00FF80",
-          "font": {
-            "family": "'Courier New', monospace",
-            "size": 14
-          }
-        }
-      },
-      "x": {
-        "grid": {
-          "display": false
-        },
-        "ticks": {
-          "color": "#00FF80",
-          "font": {
-            "family": "'Courier New', monospace",
-            "size": 14
-          }
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "labels": {
-          "color": "#00FF80",
-          "font": {
-            "family": "'Courier New', monospace",
-            "size": 14
-          }
-        }
-      },
-      "title": {
-        "display": true,
-        "text": "Hacker Activity Feed",
-        "color": "#00FF80",
-        "font": {
-          "family": "'Courier New', monospace",
-          "size": 18
-        }
-      }
-    }
-  }
-}
-```
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const ctx = document.getElementById('hackerChart').getContext('2d');
-    new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: ['Week 1', 'Week 2', 'Week 3', 'Week 4', 'Week 5', 'Week 6'],
-        datasets: [{
-          label: 'Contributions',
-          data: [10, 15, 20, 25, 30, 35],
-          backgroundColor: '#00FF80',
-          borderColor: '#00FF80',
-          borderWidth: 2
-        }]
-      },
-      options: {
-        animation: {
-          duration: 2000,
-          easing: 'easeInOutQuad'
-        },
-        scales: {
-          y: {
-            beginAtZero: true,
-            grid: {
-              color: '#00FF80',
-              borderDash: [5, 5]
-            },
-            ticks: {
-              color: '#00FF80',
-              font: {
-                family: "'Courier New', monospace",
-                size: 14
-              }
-            }
-          },
-          x: {
-            grid: {
-              display: false
-            },
-            ticks: {
-              color: '#00FF80',
-              font: {
-                family: "'Courier New', monospace",
-                size: 14
-              }
-            }
-          },
-          plugins: {
-            legend: {
-              labels: {
-                color: '#00FF80',
-                font: {
-                  family: "'Courier New', monospace",
-                  size: 14
-                }
-              }
-            },
-            title: {
-              display: true,
-              text: 'Hacker Activity Feed',
-              color: '#00FF80',
-              font: {
-                family: "'Courier New', monospace",
-                size: 18
-              }
-            }
-          }
-        }
-      }
-    });
-  });
-</script>
 
 ---
 
