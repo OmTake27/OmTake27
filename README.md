@@ -37,14 +37,6 @@
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📅 Daily Tasks / Learning:</h3>
-<p>
-<!--START_SECTION:daily-tasks-->
-- ✅ Example Task 1
-- ✅ Example Task 2
-<!--END_SECTION:daily-tasks-->
-</p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omtake27&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
