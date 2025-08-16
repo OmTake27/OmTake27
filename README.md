@@ -4,11 +4,14 @@
 ### <span id="typewriter" style="color: #FF4500;"></span>
 Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
 
-![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" />
-</p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px;" />
+  <div>
+    <p>👋 Hi! I'm Om Take, a passionate developer focused on building sleek applications and mastering modern tech stacks.</p>
+    <p>💻 I specialize in HTML, CSS, JavaScript, Java, Python, and C++.</p>
+    <p>🚀 Always eager to learn, contribute, and innovate in the world of technology.</p>
+  </div>
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=FF4500&style=flat" alt="Profile Views" />
@@ -96,8 +99,8 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ## 📅 Daily Tasks / Learning
 <p>
-  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-FF4500?style=for-the-badge&logoColor=32CD32" />
-  <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-8A2BE2?style=for-the-badge&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-00FF7F?style=for-the-badge&logoColor=32CD32" />
+  <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-FF4500?style=for-the-badge&logoColor=FFD700" />
 </p>
 
 ---
@@ -109,9 +112,9 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=radical&fire=32CD32" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=radical&fire=00FF7F" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=react&hide_border=false&bg_color=1C1C1C&color=FF4500&line=32CD32" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=react&hide_border=false&bg_color=1C1C1C&color=00FF7F&line=32CD32" alt="GitHub Activity Graph" />
 </p>
