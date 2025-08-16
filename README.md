@@ -9,21 +9,21 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
   <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+  <div>
 
     <p>👋 Hi! I'm Om Take, a passionate developer focused on building sleek applications and mastering modern tech stacks.</p>
     <p>💻 I specialize in HTML, CSS, JavaScript, Java, Python, and C++.</p>
     <p>🚀 Always eager to learn, contribute, and innovate in the world of technology.</p>
   </div>
 </div>
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 200px;">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" style="width: 500px; height: auto; border-radius: 100px;" />
-  <div>
+
 
 
 ---
 
 ## My Tech Arsenal 🛠️
-
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 200px;">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" style="width: 500px; height: auto; border-radius: 100px;" />
 ### Languages
 <div class="language-badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
