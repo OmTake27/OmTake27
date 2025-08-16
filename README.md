@@ -1,7 +1,7 @@
 <div id="particles-js"></div>
 
 # Hi, I'm Om Take! 👨‍💻
-### <span id="typewriter" style="color: #FF69B4;"></span>
+### <span id="typewriter" style="color: #FF4500;"></span>
 Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
 
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
@@ -92,7 +92,7 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ## 📅 Daily Tasks / Learning
 <p>
-  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-FF69B4?style=for-the-badge&logoColor=32CD32" />
+  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-FF4500?style=for-the-badge&logoColor=32CD32" />
   <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-8A2BE2?style=for-the-badge&logoColor=FFD700" />
 </p>
 
@@ -100,8 +100,8 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ## 📊 GitHub Vibes (Colorful & Attractive)
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&bg_color=1C1C1C&title_color=FF69B4&icon_color=00FF00&text_color=FFD700&count_private=true" alt="GitHub Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&bg_color=1C1C1C&title_color=FF69B4&text_color=FFD700" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&bg_color=1C1C1C&title_color=FF4500&icon_color=00FF00&text_color=FFD700&count_private=true" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&bg_color=1C1C1C&title_color=FF4500&text_color=FFD700" alt="Top Languages" />
 </p>
 
 <p>
@@ -109,8 +109,5 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=react&hide_border=false&bg_color=1C1C1C&color=FF69B4&line=32CD32" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=react&hide_border=false&bg_color=1C1C1C&color=FF4500&line=32CD32" alt="GitHub Activity Graph" />
 </p>
-
-
-
