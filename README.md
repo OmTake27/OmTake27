@@ -1,9 +1,4 @@
-
-
 <div id="particles-js"></div>
-
-
-
 
 # Hi, I'm Om Take! 👨‍💻
 ### <span id="typewriter" style="color: #00FF80;"></span>
@@ -12,14 +7,13 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="omtake27" />
+  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-
 
 ---
 
 ## My Tech Arsenal 🛠️
+
 ### Languages
 <div class="language-badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -43,6 +37,7 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 ---
 
 ## Featured Projects 🚀
+
 <div class="project-card">
   <h3><a href="https://github.com/OmTake27/portfolio">Portfolio Website</a></h3>
   A sleek personal website showcasing my projects and skills.<br>
@@ -97,24 +92,29 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ## 📅 Daily Tasks / Learning
 <p>
-  <!--START_SECTION:daily-tasks-->
   <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-orange?style=for-the-badge" />
-  <!--END_SECTION:daily-tasks-->
 </p>
 
 ---
 
-## 📊 GitHub Vibes
+## 📊 GitHub Vibes (Gray Version)
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&theme=radical" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&bg_color=ffffff00&title_color=808080&icon_color=505050&text_color=666666&count_private=true" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&bg_color=ffffff00&title_color=808080&text_color=666666" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=gray" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📸 Recent Coding Moment
+<p align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Om+Coding+in+Action" alt="Recent Coding" />
 </p>
