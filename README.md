@@ -24,6 +24,8 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 ## My Tech Arsenal 🛠️
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 200px;">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF" style="width: 500px; height: auto; border-radius: 100px;" />
+</div>
+
 ### Languages
 <div class="language-badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
