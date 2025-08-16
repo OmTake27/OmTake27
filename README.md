@@ -2,7 +2,7 @@
 
 # Hi, I'm Om Take! 👨‍💻
 ### <span id="typewriter" style="color: #00FF80;"></span>
-Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀  
+Passionate about building Software and mastering new tech stacks. Let's hack the world together! 🚀  
 
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
 
