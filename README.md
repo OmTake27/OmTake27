@@ -1,13 +1,13 @@
 <div id="particles-js"></div>
 
 # Hi, I'm Om Take! 👨‍💻
-### <span id="typewriter" style="color: #00FF80;"></span>
+### <span id="typewriter" style="color: #FF69B4;"></span>
 Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
 
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=FF4500&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -16,20 +16,20 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ### Languages
 <div class="language-badges">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00BFFF?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ### Frameworks & Tools
 <div class="framework-badges">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/SpringBoot-32CD32?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/SQL-20B2AA?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 <div class="skills-radar"></div>
@@ -64,13 +64,13 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 ## Connect with Me 🌐
 <p align="left">
   <a href="https://linkedin.com/in/omtake" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/omtake" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FF8C00?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://x.com/omtake27" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF00" alt="X" />
   </a>
 </p>
 
@@ -78,43 +78,39 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=omtake27&theme=dark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omtake27&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🌍 Visitors Around the Globe
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=omtake27.omtake27&left_color=000000&right_color=00FF00" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omtake27.omtake27&left_color=FF4500&right_color=32CD32" alt="Visitor Badge" />
 </p>
 
 ---
 
 ## 📅 Daily Tasks / Learning
 <p>
-  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-black?style=for-the-badge&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-black?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-FF69B4?style=for-the-badge&logoColor=32CD32" />
+  <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-8A2BE2?style=for-the-badge&logoColor=FFD700" />
 </p>
 
 ---
 
-## 📊 GitHub Vibes (Black with Green Points)
+## 📊 GitHub Vibes (Colorful & Attractive)
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&count_private=true" alt="GitHub Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&bg_color=1C1C1C&title_color=FF69B4&icon_color=00FF00&text_color=FFD700&count_private=true" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&bg_color=1C1C1C&title_color=FF69B4&text_color=FFD700" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=dark&fire=00FF00" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=radical&fire=32CD32" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=react&hide_border=false&bg_color=1C1C1C&color=FF69B4&line=32CD32" alt="GitHub Activity Graph" />
 </p>
 
----
 
-## 📸 Recent Coding Moment
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Om+Coding+in+Action" alt="Recent Coding" />
-</p>
+
