@@ -109,7 +109,7 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=dark&hide_border=true&color=00FF00&custom_color=00FF00" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00" alt="GitHub Activity Graph" />
 </p>
 
 ---
