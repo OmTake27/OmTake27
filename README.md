@@ -2,7 +2,7 @@
 
 # Hi, I'm Om Take! 👨‍💻
 ### <span id="typewriter" style="color: #FF4500;"></span>
-Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
+Passionate about building slick Software and mastering new tech stacks. Let's hack the world together! 🚀
 
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
 
@@ -11,7 +11,7 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 </p>
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="omtake27" /> </p>
 ## My Tech Arsenal 🛠️
 
 ### Languages
