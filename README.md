@@ -78,38 +78,38 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=omtake27&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omtake27&theme=dark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🌍 Visitors Around the Globe
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=omtake27.omtake27&left_color=black&right_color=00FF80" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omtake27.omtake27&left_color=000000&right_color=00FF00" alt="Visitor Badge" />
 </p>
 
 ---
 
 ## 📅 Daily Tasks / Learning
 <p>
-  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Practice%20LeetCode%20Problems-Ongoing-black?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Learn%20Spring%20Boot%20Security-In%20Progress-black?style=for-the-badge&logoColor=00FF00" />
 </p>
 
 ---
 
-## 📊 GitHub Vibes (Gray Version)
+## 📊 GitHub Vibes (Black with Green Points)
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&bg_color=ffffff00&title_color=808080&icon_color=505050&text_color=666666&count_private=true" alt="GitHub Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&bg_color=ffffff00&title_color=808080&text_color=666666" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omtake27&show_icons=true&hide_border=false&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&count_private=true" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omtake27&layout=compact&hide_border=false&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=gray" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=dark&fire=00FF00" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=dark&hide_border=true&color=00FF00&custom_color=00FF00" alt="GitHub Activity Graph" />
 </p>
 
 ---
