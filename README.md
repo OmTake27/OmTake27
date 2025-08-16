@@ -1,8 +1,7 @@
 <div id="particles-js"></div>
-
+![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
 # Hi, I'm Om Take! 👨‍💻
 ### <span id="typewriter" style="color: #00FF80;"></span>
-![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
 Passionate about building slick apps and mastering new tech stacks. Let's hack the world together! 🚀
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
@@ -123,5 +122,5 @@ Passionate about building slick apps and mastering new tech stacks. Let's hack t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=github&bg_color=808080&color=00FF00" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=github&bg_color=000000&color=00FF00" alt="GitHub Activity Graph" />
 </p>
