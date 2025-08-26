@@ -1,15 +1,14 @@
-<div align="center">
-  
+<div id="particles-js"></div>
+
 # Hi, I'm Om Take! 👨‍💻
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF80&center=true&vCenter=true&width=600&lines=Passionate+Software+Developer;Java+%7C+Python+%7C+C%2B%2B+%7C+Web+Dev;Always+Learning+%26+Building+Cool+Stuff)](https://git.io/typing-svg)
+### <span id="typewriter" style="color: #00FF80;"></span>
+Passionate about building Software and mastering new tech stacks. Let's hack the world together! 🚀  
 
 ![Profile Banner](https://github.com/OmTake27/OmTake27/blob/main/github-header-image.png)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=00FF80&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-</div>
 
 ---
 
@@ -42,11 +41,17 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [**Portfolio Website**](https://github.com/OmTake27/portfolio) | HTML, CSS, JavaScript, React | 🌐 My digital calling card |
-| [**Java Task Manager**](https://github.com/OmTake27/task-manager) | Java, Spring Boot, SQL | ✅ Task organization for teams |
-| [**LeetCode Solutions**](https://github.com/OmTake27/leetcode-solutions) | Python, Java, C++ | 💡 Daily coding practice |
+- 🔗 [**Portfolio Website**](https://github.com/OmTake27/portfolio)  
+  🛠️ Tech: HTML, CSS, JavaScript, React  
+  ⭐ My digital calling card to the world!  
+
+- 🔗 [**Java Task Manager**](https://github.com/OmTake27/task-manager)  
+  🛠️ Tech: Java, Spring Boot, SQL  
+  ⭐ Streamlines task organization for teams.  
+
+- 🔗 [**LeetCode Solutions**](https://github.com/OmTake27/leetcode-solutions)  
+  🛠️ Tech: Python, Java, C++  
+  ⭐ Sharpening my coding skills daily.  
 
 ---
 
@@ -64,12 +69,11 @@
 
 ---
 
-## 📅 Current Learning Path
-- [x] Practice LeetCode Problems  
-- [x] Learn Spring Boot Security  
-- [ ] Build REST APIs with Spring  
-- [ ] Explore Docker & Kubernetes  
-- [ ] Contribute to Open Source  
+## 📅 Daily Tasks / Learning
+✔️ Practice LeetCode Problems  
+⏳ Learn Spring Boot Security  
+💡 Explore New Technologies  
+🔥 Work on Projects  
 
 ---
 
@@ -80,11 +84,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omtake27&theme=gray" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=react-dark&bg_color=000000&color=00FF80&line=00FF80&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omtake27&theme=github&bg_color=000000&color=00FF00" />
 </p>
 
 ---
