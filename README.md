@@ -60,14 +60,7 @@ Passionate about building Software and mastering new tech stacks. Let's hack the
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/omtake)  
 [![X](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/omtake27)  
 
----
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omtake27&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
 
 ## 📅 Daily Tasks / Learning
 ✔️ Practice LeetCode Problems  
