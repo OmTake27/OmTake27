@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF80&center=true&vCenter=true&width=650&height=50&lines=MCA+Student+%7C+Full-Stack+Developer;Java+%26+Spring+Boot+%7C+React+%7C+PostgreSQL;Build.+Break.+Learn.+Improve.+Repeat." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&height=50&lines=MCA+Student+%7C+Full-Stack+Developer;Java+%26+Spring+Boot+%7C+React+%7C+PostgreSQL;Build.+Break.+Learn.+Improve.+Repeat." alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/OmTake27?label=Followers&style=flat" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=omtake27&label=Profile%20Views&color=14B8A6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/OmTake27?label=Followers&style=flat&color=FB7185" alt="GitHub Followers"/>
 </p>
 
 ---
@@ -196,12 +196,12 @@ Currently strengthening my problem-solving skills through:
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmTake27&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTake27&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmTake27&show_icons=true&title_color=14B8A6&icon_color=FB7185&text_color=1E293B&bg_color=FFFFFF&border_color=E2E8F0" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmTake27&layout=compact&title_color=14B8A6&text_color=1E293B&bg_color=FFFFFF&border_color=E2E8F0" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=OmTake27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=OmTake27&background=FFFFFF&border=E2E8F0&stroke=E2E8F0&ring=14B8A6&fire=FB7185&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=14B8A6&sideLabels=64748B&dates=94A3B8" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -209,7 +209,7 @@ Currently strengthening my problem-solving skills through:
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmTake27&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmTake27&bg_color=FFFFFF&color=1E293B&title_color=14B8A6&line=14B8A6&point=FB7185&area=true&area_color=99F6E4&border_color=E2E8F0" width="100%"/>
 </p>
 
 ---
@@ -290,5 +290,5 @@ Alongside this, I'm improving: `DSA + React + TypeScript + PostgreSQL + System D
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmTake27.OmTake27&left_color=black&right_color=00FF80"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmTake27.OmTake27&left_color=1E293B&right_color=FB7185"/>
 </p>
